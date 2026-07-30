@@ -1,4 +1,4 @@
-- **NAME:** EULA FAITH D. MANUEL 
+- **NAME:** Eula Faith D. Manuel 
 - **COURSE & SECTION:** BSIT 4-F
 # Description
 This repository contains the academic and project files of Mark Castaneto, a Bachelor of Science in Information Technology (BSIT) IV-A student. It is used to store, organize, and manage source code, documentation, assignments, and system development projects.
