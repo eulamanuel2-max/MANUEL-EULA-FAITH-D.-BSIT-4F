@@ -1,4 +1,4 @@
-# Checkpoint 7 – Linux Investigation
+# Linux Investigation
 
 ## Environment
 KillerCoda Playground (Linux VM)
