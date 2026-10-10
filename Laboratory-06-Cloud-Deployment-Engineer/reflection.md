@@ -1,4 +1,4 @@
-# Mission Reflection: Cloud Deployment Engineer
+# Mission Reflection
 
 Writing a `docker-compose.yml` file fundamentally transforms how a cloud engineer approaches infrastructure deployment[cite: 4]. Instead of manually executing long, error-prone `docker run` commands for every individual container, Infrastructure as Code (IaC) allows us to define an entire multi-tier environment in a single, version-controlled blueprint[cite: 4]. This ensures consistency, repeatability, and effortless scalability across different environments.
 
